@@ -4,7 +4,7 @@ Aquí voy a ir subiendo ejercicios de programación que vaya resolviendo. Si los
 
 ## 📌 Lista de Ejercicios
 
-### [[1. Juego de las 8 Reinas]](8-queens)
+### [1. Juego de las 8 Reinas](8-queens)
 - **Descripción:** Encontrar todas las combinaciones posibles para colocar 8 reinas en un tablero de ajedrez sin que se ataquen entre sí.
 - **Técnicas:** Backtracking, Recursión
 - **Lenguaje:** C
