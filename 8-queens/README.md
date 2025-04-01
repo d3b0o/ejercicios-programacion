@@ -2,6 +2,8 @@
 
 Este directorio contiene la solución al problema de las 8 reinas.
 
+![](output.png)
+
 ## 📝 Descripción
 El objetivo del problema es colocar 8 reinas en un tablero de ajedrez de 8x8 de manera que ninguna de ellas se ataque entre sí. Esto significa que no pueden estar en la misma fila, columna ni diagonal.
 
