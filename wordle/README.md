@@ -11,7 +11,8 @@ Este programa es una versión del popular juego Wordle, en el que el jugador deb
 - Comparación de caracteres
 
 ## 🚀 Cómo Ejecutarlo
-1. Ejecuta el script con:
+1. Crear el archivo palabras.txt y ponerle algunas palabras de 5 letras.
+2. Ejecuta el script con:
    
    ```bash
    python3 main.py
