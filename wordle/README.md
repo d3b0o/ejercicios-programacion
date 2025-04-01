@@ -12,6 +12,7 @@ Este programa es una versión del popular juego Wordle, en el que el jugador deb
 
 ## 🚀 Cómo Ejecutarlo
 1. Ejecuta el script con:
+   
    ```bash
    python3 main.py
    ```
