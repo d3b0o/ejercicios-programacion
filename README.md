@@ -8,11 +8,13 @@ Aquí voy a ir subiendo ejercicios de programación que vaya resolviendo. Si los
 - **Descripción:** Encontrar todas las combinaciones posibles para colocar 8 reinas en un tablero de ajedrez sin que se ataquen entre sí.
 - **Técnicas:** Backtracking, Recursión
 - **Lenguaje:** C
+- **Dificultad**: :star::star::star:
 
 ### [2. Wordle en Python](wordle)
 - **Descripción:** Juego de palabras donde el usuario debe adivinar una palabra oculta en varios intentos.
 - **Técnicas:** Manejo de listas
 - **Lenguaje:** Python
+- **Dificultad**: :star:
 ---
 
 
